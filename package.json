@@ -1,0 +1,30 @@
+{
+  "name": "text4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyi11o/text3.git"
+  },
+  "keywords": [
+    "text4"
+  ],
+  "author": "yangyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyi11o/text3/issues"
+  },
+  "homepage": "https://github.com/yangyi11o/text3#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
